@@ -1,2 +1,3 @@
 # IceRobot
-One Mission: deliver ice flawlessly
+One Mission: deliver ice flawlessly.
+Currently under development at UCLA.
